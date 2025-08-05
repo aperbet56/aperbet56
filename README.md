@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-## 🛠️ Langages et Technologies utilsés
+## 🛠️ Langages et Technologies utilisés
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -17,3 +17,9 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+## 💻 Réseaux sociaux
+
+![Image](img/linkedin.png) :
+https://bit.ly/3gMMm4X
+![Image](img/github.png) : https://github.com/aperbet56
