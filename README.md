@@ -20,6 +20,7 @@
 
 ## 💻 Réseaux sociaux
 
-![Image](img/linkedin.png) :
-https://bit.ly/3gMMm4X
-![Image](img/github.png) : https://github.com/aperbet56
+- ![Image](img/linkedin.png) :
+  https://bit.ly/3gMMm4X
+
+- ![Image](img/github.png) : https://github.com/aperbet56
