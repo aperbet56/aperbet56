@@ -20,6 +20,8 @@
 
 ## 💻 Réseaux sociaux
 
+Vous pouvez me retrouver sur les réseaux sociaux :
+
 - ![Image](img/linkedin.png) :
   https://bit.ly/3gMMm4X
 
