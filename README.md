@@ -26,3 +26,7 @@ Vous pouvez me retrouver sur les réseaux sociaux :
   https://bit.ly/3gMMm4X
 
 - ![Image](img/github.png) : https://github.com/aperbet56
+
+## 📁 Portfolio
+
+Vous avez la possibilité d'accéder à mon portfolio temporaire en cliquant sur ce lien (https://aperbet56.github.io/) pendant que mon site web personnel est en cours de développement.
