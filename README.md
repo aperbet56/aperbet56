@@ -12,7 +12,7 @@ Créative, minutieuse, autonome, persévérante et curieuse, je travaille consta
 
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
-## 🛠️ Langages et Technologies utilisés
+## 🛠️ Langages de programmation et Technologies utilisés
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
