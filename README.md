@@ -2,6 +2,16 @@
 
 ## ✨ Présentation
 
+Bonjour,
+
+Développeuse web bilingue espagnol, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
+
+Pendant ma formation, j'ai acquis de solides compétences en développement front-end et back-end.
+
+Créative, minutieuse, autonome, persévérante et curieuse, je travaille constamment sur de nouveaux projets personnels afin de progresser et développer de nouvelles compétences techniques.
+
+Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
+
 ## 🛠️ Langages et Technologies utilisés
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
