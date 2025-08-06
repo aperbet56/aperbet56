@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-Bonjour,
+👋 Bonjour,
 
 Développeuse web bilingue espagnol, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
