@@ -1,4 +1,4 @@
-![Banner](img/banner.jpg)
+![Banner](img/banner-1.jpg)
 
 ## ✨ Présentation
 
