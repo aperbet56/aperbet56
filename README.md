@@ -36,6 +36,8 @@ En outre, j'ai également des compétences dans les domaines suivants :
 
 - le SEO (Search Engine Optimization) ou référencement naturel.
   Le référencement naturel consiste à aider les moteurs de recherche à interpréter le contenu d'un site web et à aider les internautes à le trouver.
+- l'accessibilté web.
+  Un site accessible est un site qui permet à toute personne ayant un handicap ou non d'accéder à ses contenus et ses fonctionnalités sans difficulté.
 
 ## 💻 Réseaux sociaux
 
