@@ -32,6 +32,11 @@ Le développement front-end est une véritable passion mais je suis également �
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 
+En outre, j'ai également des compétences dans les domaines suivants :
+
+- le SEO (Search Engine Optimization) ou référencement naturel.
+  Le référencement naturel consiste à aider les moteurs de recherche à interpréter le contenu d'un site web et à aider les internautes à le trouver.
+
 ## 💻 Réseaux sociaux
 
 Vous pouvez me retrouver sur les réseaux sociaux :
