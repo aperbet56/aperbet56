@@ -12,7 +12,7 @@ Créative, minutieuse, autonome, persévérante et curieuse, je travaille consta
 
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
-## 🛠️ Langages de programmation et Technologies utilisés
+## 🛠️ Langages de programmation et Outils de développement utilisés
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -50,4 +50,5 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ## 📁 Portfolio
 
-Vous avez la possibilité d'accéder à mon portfolio temporaire en cliquant sur ce lien (https://aperbet56.github.io/) pendant que mon site web personnel est en cours de développement.
+Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
+Retrouvez tous mes projets sur mon compte Github.
