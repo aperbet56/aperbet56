@@ -4,7 +4,7 @@
 
 👋 Bonjour,
 
-Développeuse web bilingue espagnol, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
+Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
 Pendant ma formation, j'ai acquis de solides compétences en développement front-end et back-end.
 
