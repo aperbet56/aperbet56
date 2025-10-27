@@ -43,6 +43,8 @@ En outre, j'ai également des compétences dans les domaines suivants :
 
 Vous pouvez me retrouver sur les réseaux sociaux :
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3gMMm4X)
+
 - ![Image](img/linkedin.png) :
   https://bit.ly/3gMMm4X
 
@@ -51,8 +53,6 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 ## 📊 GitHub statistiques
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
-
-![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&show_icons=true&theme=shades-of-purple)
 
 ![aperbet56's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&theme=shades-of-purple&hide_border=false)
 
