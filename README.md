@@ -50,7 +50,7 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ## 📊 GitHub statistiques
 
-![](https://github-readme-stats.vercel.app/api?username=aperbet56-s&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 📁 Portfolio
 
