@@ -50,9 +50,9 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ## 📊 GitHub statistiques
 
-![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
+![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)
 
-![aperbet56's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&theme=prussian&hide_border=false)
+![aperbet56's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&theme=buefy&hide_border=false)
 
 ## 📁 Portfolio
 
