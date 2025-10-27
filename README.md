@@ -44,6 +44,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 Vous pouvez me retrouver sur les réseaux sociaux :
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://bit.ly/3gMMm4X)
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aperbet56)
 
 ## 📊 GitHub statistiques
