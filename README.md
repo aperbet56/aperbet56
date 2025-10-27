@@ -48,6 +48,10 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 - ![Image](img/github.png) : https://github.com/aperbet56
 
+## 📊 GitHub statistiques
+
+[](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 ## 📁 Portfolio
 
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
