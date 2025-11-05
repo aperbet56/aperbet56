@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Bonjour,
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Bonjour,
 
 Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
@@ -47,7 +47,7 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aperbet56)
 
-## 📊 GitHub statistiques
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> GitHub statistiques
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 
