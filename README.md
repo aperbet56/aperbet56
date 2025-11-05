@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<p text-align="center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=323294&center=true&vCenter=true&width=435&lines=Annabelle+PERBET;D%C3%A9veloppeuse+front-end;D%C3%A9veloppeuse+back-end" alt="Typing SVG" /></a>
 </p>
 
