@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-👋 Bonjour,
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 👋 Bonjour,
 
 Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
@@ -52,8 +52,6 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aperbet56)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📁 Portfolio
 
