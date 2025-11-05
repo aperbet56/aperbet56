@@ -66,4 +66,4 @@ Retrouvez tous mes projets sur mon compte Github.
 
 ## ✍️ Citations de développeurs
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=sgithub_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
