@@ -53,7 +53,7 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![aperbet's stats](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&&theme=shades-of-purple)
+[![ WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aperbet56)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📁 Portfolio
 
