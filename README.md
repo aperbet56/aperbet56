@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 👋 Bonjour,
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Bonjour,
 
 Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
