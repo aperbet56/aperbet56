@@ -59,9 +59,13 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aperbet56&theme=shades-of-purple&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aperbet56&theme=shades-of-purple&locale=fr&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&theme=shades-of-purple&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 📁 Portfolio
 
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
 Retrouvez tous mes projets sur mon compte Github.
+
+## ✍️ Citations de développeurs
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shades-of-purple)](https://github.com/piyushsuthar/github-readme-quotes)
