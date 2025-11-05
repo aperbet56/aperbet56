@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Bonjour,
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&pause=1000&width=435&lines=Annabelle+PERBET;D%C3%A9veloppeuse+front-end;D%C3%A9veloppeuse+back-end)](https://git.io/typing-svg)
+
 Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
 
 Pendant ma formation, j'ai acquis de solides compétences en développement front-end et back-end.
