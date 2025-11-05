@@ -53,6 +53,8 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![aperbet's stats](https://github-readme-streak-stats.herokuapp.com/?user=aperbet56&&theme=shades-of-purple)
+
 ## 📁 Portfolio
 
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
