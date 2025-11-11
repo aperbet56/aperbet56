@@ -57,7 +57,9 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aperbet56&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aperbet56&theme=shades-of-purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aperbet56&theme=radical" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aperbet56&theme=radical" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aperbet56&theme=shades-of-purple&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
