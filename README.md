@@ -59,9 +59,9 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aperbet56&theme=shades-of-purple&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aperbet56&theme=shades_of_purple" />
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aperbet56&theme=shades_of_purple" />
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aperbet56&theme=radical" />
 
 ## 📁 Portfolio
 
