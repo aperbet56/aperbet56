@@ -65,6 +65,8 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aperbet56&theme=github" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aperbet56&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📁 Portfolio
 
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
