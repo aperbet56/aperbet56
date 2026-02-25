@@ -61,10 +61,6 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aperbet56&theme=shades_of_purple" />
 
-## 📈 Graphique des commits
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aperbet56&theme=github" />
-
 ## 📁 Portfolio
 
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
