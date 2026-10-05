@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<p align="center" style = "margin-bottom: 20px; font-size: 24px; font-weight:600; ">👋 Bonjour, moi c'est Annabelle !</p>
+<h3 align="center" style = "margin-bottom: 20px; font-size: 40px; ">👋 Bonjour, moi c'est Annabelle !</h3>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=FAD000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web;D%C3%A9veloppeuse+front-end;D%C3%A9veloppeuse+back-end" alt="Typing SVG" /></a>
@@ -20,7 +20,7 @@ Le développement front-end est une véritable passion mais je suis également �
 
 En tant que développeuse web junior, je maîtrise plusieurs technologies et outils de développement :
 
-### Rechnologies Front-end
+### Technologies Front-end
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
