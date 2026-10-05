@@ -5,7 +5,7 @@
 <h3 align="center" style = "margin-bottom: 20px; font-size: 40px; ">👋 Bonjour, moi c'est Annabelle !</h3>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=FAD000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web;D%C3%A9veloppeuse+front-end;D%C3%A9veloppeuse+back-end" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=FAD000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web;D%C3%A9veloppeuse+Front-End;D%C3%A9veloppeuse+Back-End" alt="Typing SVG" /></a>
 </p>
 
 Développeuse Web Junior bilingue 🇫🇷 🇪🇸 passionnée par la création d'applications et sites web modernes, intuitifs et performants.
@@ -20,7 +20,7 @@ Le développement front-end est une véritable passion mais je suis également �
 
 En tant que développeuse web junior, je maîtrise plusieurs technologies et outils de développement :
 
-### Technologies Front-end
+### Technologies Front-end :
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -30,14 +30,14 @@ En tant que développeuse web junior, je maîtrise plusieurs technologies et out
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-### Technologies Back-end
+### Technologies Back-end :
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-### Outils de développement
+### Outils de développement :
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
@@ -54,13 +54,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 - l'accessibilté web.
   Un site accessible est un site qui permet à toute personne ayant un handicap ou non d'accéder à ses contenus et ses fonctionnalités sans difficulté.
 
-## 💻 Réseaux sociaux
-
-Vous pouvez me retrouver sur les réseaux sociaux :
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://bit.ly/3gMMm4X)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aperbet56)
+## 💻 Mes Projets Récents
 
 ## 📊 GitHub statistiques
 
@@ -77,17 +71,17 @@ Vous pouvez me retrouver sur les réseaux sociaux :
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
 Retrouvez tous mes projets sur mon compte Github.
 
-## 💬 Citations de développeurs
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 🤝 Restons en contact !
 
 À la recherche d'une développeuse web motivée et prête à s'investir à long terme ? Rencontrons-nous !
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/annabelle-perbet-862784256/)
-[![Portfolio](https://shields.io⚡-orange?style=for-the-badge)](https://aperbet56.github.io/portfolio/)
-[![Email](https://shields.io✉️-red?style=for-the-badge)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://bit.ly/3gMMm4X)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aperbet56)
+
+## 💬 Citations de développeurs
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
