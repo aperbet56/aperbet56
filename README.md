@@ -18,7 +18,9 @@ Le développement front-end est une véritable passion mais je suis également �
 
 ## 🚀 Technologies et Outils de développement utilisés
 
-# Front-end
+En tant que développeuse web junior, je maîtrise plusieurs techonolies et outils de développement :
+
+## Front-end
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
