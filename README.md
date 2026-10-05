@@ -81,6 +81,14 @@ Retrouvez tous mes projets sur mon compte Github.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## 🤝 Restons en contact !
+
+À la recherche d'une développeuse web motivée et prête à s'investir à long terme ? Rencontrons-nous !
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/annabelle-perbet-862784256/)
+[![Portfolio](https://shields.io⚡-orange?style=for-the-badge)](https://aperbet56.github.io/portfolio/)
+[![Email](https://shields.io✉️-red?style=for-the-badge)](#)
+
 ---
 
 ![Banner](img/footer.png)
