@@ -2,27 +2,25 @@
 
 ## ✨ Présentation
 
-<div align="center" style = "margin-bottom: 20px; font-size: 24px; display:flex; ">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <h1>Bonjour, moi c'est Annabelle !</h1>
-</div>
+<p align="center" style = "margin-bottom: 20px; font-size: 24px; font-weight:600; ">👋 Bonjour, moi c'est Annabelle !</p>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=FAD000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web;D%C3%A9veloppeuse+front-end;D%C3%A9veloppeuse+back-end" alt="Typing SVG" /></a>
 </p>
 
-Développeuse web bilingue 🇫🇷 🇪🇸, j'ai toujours été passionnée par l'informatique, les nouvelles technologies et les jeux vidéos.
-
-Pendant ma formation, j'ai acquis de solides compétences en développement front-end et back-end.
+Développeuse Web Junior bilingue 🇫🇷 🇪🇸 passionnée par la création d'applications et sites web modernes, intuitifs et performants.
 
 Créative, minutieuse, autonome, persévérante et curieuse, je travaille constamment sur de nouveaux projets personnels afin de progresser et développer de nouvelles compétences techniques.
 
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
-## 🚀 Technologies et Outils de développement utilisés
+🚀 **Actuellement à la recherche d'une opportunité en CDI** pour mettre mes compétences au service d'une équipe dynamique, relever de nouveaux défis techniques et continuer à grandir professionnellement.
+
+## 🛠️ Technologies et Outils de développement utilisés
 
 En tant que développeuse web junior, je maîtrise plusieurs technologies et outils de développement :
 
-## Front-end
+### Rechnologies Front-end
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -32,14 +30,14 @@ En tant que développeuse web junior, je maîtrise plusieurs technologies et out
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-## Back-end
+### Technologies Back-end
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-## Outils
+### Outils de développement
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
