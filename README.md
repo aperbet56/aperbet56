@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<div align="center" style = "margin-bottom: 20px; font-size: 24px;">
+<div align="center" style = "margin-bottom: 20px; font-size: 24px; display:flex; ">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> <h1>Bonjour, moi c'est Annabelle !</h1>
 </div>
 
