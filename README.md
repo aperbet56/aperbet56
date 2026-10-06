@@ -59,6 +59,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 | Projet              | Description                                                                                               | Stack Technique         | Liens                                                                                                             |
 | :------------------ | :-------------------------------------------------------------------------------------------------------- | :---------------------- | :---------------------------------------------------------------------------------------------------------------- |
 | **[Météo Connect]** | Une application web dynamique permettant d'afficher la météo actuelle et les prévisions sur quatre jours. | HTML5, CSS3, JavaScript | [📂 Code]([https://github.com/aperbet56/meteo_connect]) / [🚀 Démo]([https://aperbet56.github.io/meteo_connect/]) |
+| **Météo Connect**   | Une application web dynamique permettant d'afficher la météo actuelle et les prévisions sur quatre jours. | HTML5, CSS3, JavaScript | [📂 Code](https://github.com/aperbet56/meteo_connect) / [🚀 Démo](https://aperbet56.github.io/meteo_connect/)     |
 
 ## 📊 GitHub statistiques
 
