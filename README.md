@@ -14,7 +14,9 @@ Créative, minutieuse, autonome, persévérante et curieuse, je travaille consta
 
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
-🚀 **Actuellement à la recherche d'une opportunité en CDI** pour mettre mes compétences au service d'une équipe dynamique, relever de nouveaux défis techniques et continuer à grandir professionnellement.
+🚀 **Actuellement à la recherche d'une opportunité en CDI en Haute-Loire ou sur Saint-Etienne (présentiel et/ou télétravail)**
+
+👉 **Ce que je recherche :** Un environnement dynamique et bienveillant qui favorise la montée en compétences, où je pourrai relever de nouveaux défis techniques et continuer à grandir professionnellement.
 
 ## 🛠️ Technologies et Outils de développement utilisés
 
@@ -32,7 +34,6 @@ En tant que développeuse web junior, je maîtrise plusieurs technologies et out
 
 ### ⚙️ Technologies Back-end :
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -62,6 +63,12 @@ En outre, j'ai également des compétences dans les domaines suivants :
 | **Calculateur d'IMC professionel**      | Une application simple, intuitive et réactive qui permet aux utilisateurs de calculer leur Indice de Masse Corporelle (IMC) en quelques clics.                                                                    | HTML5, CSS3, JavaScript | [📂 Code](https://github.com/aperbet56/calculateur_d_imc_professionnel) / [🚀 Démo](https://aperbet56.github.io/calculateur_d_imc_professionnel/)         |
 | **Galerie de photos**                   | Une galerie photo interactive de type Masonry (style Pinterest) dédiée à la série télévisée policière Castle.                                                                                                     | HTML5, CSS3, JavaScript | [📂 Code](https://github.com/aperbet56/masonry_serie_castle) / [🚀 Démo](https://aperbet56.github.io/masonry_serie_castle/)                               |
 | **Grande frise historique interactive** | Une application web moderne, interactive et entièrement adaptative permettant d'explorer les grands tournants de l'Histoire humaine, de l'invention de l'écriture en 3500 av. J.-C. jusqu'aux événements de 2026. | HTML5, CSS3, JavaScript | [📂 Code](https://github.com/aperbet56/grande_frise_historique_interactive) / [🚀 Démo](https://aperbet56.github.io/grande_frise_historique_interactive/) |
+
+## 📈 En ce moment...
+
+- 🔭 Je travaille actuellement sur le perfectionnement de mes compétences en **JavaScript**, **React** et **TypeScript**.
+- 📚 J'apprends la mise en place de tests unitaires, Wordpress et Elementor. Je me forme également à bien utiliser l'IA et au Vibe Coding
+- 💬 N'hésitez pas à me poser des questions sur mes projets ou à échanger sur vos opportunités en CDI !
 
 ## 📊 GitHub statistiques
 
