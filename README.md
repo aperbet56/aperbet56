@@ -75,7 +75,7 @@ Retrouvez tous mes projets sur mon compte Github.
 
 À la recherche d'une développeuse web motivée et prête à s'investir à long terme ? Rencontrons-nous !
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://bit.ly/3gMMm4X)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/annabelle-perbet-862784256/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aperbet56)
 
