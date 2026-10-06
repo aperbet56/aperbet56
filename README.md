@@ -14,7 +14,7 @@ Créative, minutieuse, autonome, persévérante et curieuse, je travaille consta
 
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
-🚀 **Actuellement à la recherche d'une opportunité en CDI en Haute-Loire ou sur Saint-Etienne (présentiel et/ou télétravail)**
+🚀 **Actuellement à la recherche d'une opportunité en CDI en Haute-Loire ou sur Saint-Etienne (présentiel et/ou télétravail) !**
 
 👉 **Ce que je recherche :** Un environnement dynamique et bienveillant qui favorise la montée en compétences, où je pourrai relever de nouveaux défis techniques et continuer à grandir professionnellement.
 
@@ -67,7 +67,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 ## 📈 En ce moment...
 
 - 🔭 Je travaille actuellement sur le perfectionnement de mes compétences en **JavaScript**, **React** et **TypeScript**.
-- 📚 J'apprends la mise en place de tests unitaires, Wordpress et Elementor. Je me forme également à bien utiliser l'IA et au Vibe Coding
+- 📚 J'apprends la mise en place de tests unitaires, Wordpress et Elementor. Je me forme également à bien utiliser l'IA et au Vibe Coding.
 - 💬 N'hésitez pas à me poser des questions sur mes projets ou à échanger sur vos opportunités en CDI !
 
 ## 📊 GitHub statistiques
