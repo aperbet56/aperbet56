@@ -20,7 +20,7 @@ Le développement front-end est une véritable passion mais je suis également �
 
 En tant que développeuse web junior, je maîtrise plusieurs technologies et outils de développement :
 
-### Technologies Front-end :
+### 💻 Technologies Front-end :
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -30,14 +30,14 @@ En tant que développeuse web junior, je maîtrise plusieurs technologies et out
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-### Technologies Back-end :
+### ⚙️ Technologies Back-end :
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
-### Outils de développement :
+### 🛠️ Outils de développement :
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
@@ -54,7 +54,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 - l'accessibilté web.
   Un site accessible est un site qui permet à toute personne ayant un handicap ou non d'accéder à ses contenus et ses fonctionnalités sans difficulté.
 
-## 💻 Mes Projets Récents
+## 💡 Mes Projets Récents
 
 ## 📊 GitHub statistiques
 
