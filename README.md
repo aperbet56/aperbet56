@@ -10,13 +10,13 @@
 
 Développeuse Web Junior bilingue 🇫🇷 🇪🇸 passionnée par la création d'applications et sites web modernes, intuitifs et performants.
 
-Créative, minutieuse, autonome, persévérante et curieuse, je travaille constamment sur de nouveaux projets personnels afin de progresser et développer de nouvelles compétences techniques.
-
 Le développement front-end est une véritable passion mais je suis également à l'aise en back-end.
 
 🚀 **Actuellement à la recherche d'une opportunité en CDI en Haute-Loire ou sur Saint-Etienne (présentiel et/ou télétravail) !**
 
 👉 **Ce que je recherche :** Un environnement dynamique et bienveillant qui favorise la montée en compétences, où je pourrai relever de nouveaux défis techniques et continuer à grandir professionnellement.
+
+🤝 **Ce que j'apporte à l'équipe :** Une grande curiosité, de la rigueur, de la persévérance et de la minute en plus d'une forte envie de monter en compétences au contact de profils seniors.
 
 ## 🛠️ Technologies et Outils de développement utilisés
 
@@ -66,7 +66,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 
 ## 📈 En ce moment...
 
-- 🔭 Je travaille actuellement sur le perfectionnement de mes compétences en **JavaScript**, **React** et **TypeScript**.
+- 🔭 **En constante évolution :** J'approfondis mes compétences chaque jour et je m'intéresse de près aux bonnes pratiques de code (Clean Code...).
 - 📚 J'apprends la mise en place de tests unitaires, Wordpress et Elementor. Je me forme également à bien utiliser l'IA et au Vibe Coding.
 - 💬 N'hésitez pas à me poser des questions sur mes projets ou à échanger sur vos opportunités en CDI !
 
