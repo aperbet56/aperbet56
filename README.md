@@ -16,7 +16,7 @@ Le développement front-end est une véritable passion mais je suis également �
 
 👉 **Ce que je recherche :** Un environnement dynamique et bienveillant qui favorise la montée en compétences, où je pourrai relever de nouveaux défis techniques et continuer à grandir professionnellement.
 
-🤝 **Ce que j'apporte à l'équipe :** Une grande curiosité, de la rigueur, de la persévérance et de la minute en plus d'une forte envie de monter en compétences au contact de profils seniors.
+🤝 **Ce que je souhaite apporter à votre équipe :** Une grande curiosité, de la rigueur, de la persévérance et de la minutie en plus d'une forte envie de monter en compétences au contact de profils seniors.
 
 ## 🛠️ Technologies et Outils de développement utilisés
 
@@ -70,7 +70,7 @@ En outre, j'ai également des compétences dans les domaines suivants :
 - 📚 J'apprends la mise en place de tests unitaires, Wordpress et Elementor. Je me forme également à bien utiliser l'IA et au Vibe Coding.
 - 💬 N'hésitez pas à me poser des questions sur mes projets ou à échanger sur vos opportunités en CDI !
 
-## 📊 GitHub statistiques
+## 📊 Statistiques Github
 
 ![aperbet56's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperbet56&show_icons=true&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
 
