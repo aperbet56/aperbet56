@@ -2,7 +2,7 @@
 
 ## ✨ Présentation
 
-<h3 align="center" style = "margin-bottom: 20px; font-size: 40px; ">👋 Bonjour, moi c'est Annabelle !</h3>
+<h3 align="center" style = "margin-bottom: 20px; font-size: 40px; ">👋 Bonjour à tous, moi c'est Annabelle !</h3>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alan+Sans&weight=500&size=30&duration=4000&pause=1000&color=FAD000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web;D%C3%A9veloppeuse+Front-End;D%C3%A9veloppeuse+Back-End" alt="Typing SVG" /></a>
@@ -85,9 +85,9 @@ En outre, j'ai également des compétences dans les domaines suivants :
 Vous avez la possibilité d'accéder à mon portfolio en cliquant sur ce lien https://aperbet56.github.io/portfolio/.
 Retrouvez tous mes projets sur mon compte Github.
 
-## 🤝 Restons en contact !
+## 📬 Me contacter !
 
-À la recherche d'une développeuse web motivée et prête à s'investir à long terme ? Rencontrons-nous !
+À la recherche d'une développeuse web motivée et prête à s'investir à long terme ? Echangeons ensemble !
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/annabelle-perbet-862784256/)
 
